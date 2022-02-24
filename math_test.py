@@ -1,5 +1,5 @@
 def foo(number1, number2):
-  result = number1 + number1
+  result = number1 + number2
   return result
 
 
